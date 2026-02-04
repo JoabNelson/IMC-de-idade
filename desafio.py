@@ -25,7 +25,7 @@ Caso digite algo inválido, exibir: "Opção inválida, tente novamente!"
 Testar diferentes entradas para verificar todas as respostas.
 Enviar o link do repositório com o Código
 
-\n = pular uma linha LMEBRESSE DISSO'''
+\n = pular uma linha'''
 
 print('''
 Opções do menu:
